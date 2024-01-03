@@ -16,4 +16,8 @@ app.post('/', function (req, res) {
         });
     }
 });
+
+server.listen(9000, '127.0.0.1', function() {
+  console.log("Listening on port 9000");
+});
 ```
