@@ -8,3 +8,5 @@ This repo provides vulnerable code snippets
 [Insecure Deserialization](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Insecure_Deserializatio)
 
 [CSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/CSRF)
+
+[Command Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Command_Injection)
