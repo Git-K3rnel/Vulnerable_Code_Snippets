@@ -28,4 +28,8 @@ app.get('profile-picture', assync (req, res) => {
     res.status(500).json({error: 'Internal server error'});
     }
 });
+
+app.listen(8000, () => {
+  console.log('server is running on http://localhost:8000');
+});
 ```
