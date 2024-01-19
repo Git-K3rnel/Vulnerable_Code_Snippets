@@ -12,3 +12,5 @@ This repo provides vulnerable code snippets
 [Command Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Command_Injection)
 
 [SSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSRF)
+
+[SSTI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSTI)
