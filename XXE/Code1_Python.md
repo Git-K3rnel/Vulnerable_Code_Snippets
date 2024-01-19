@@ -12,4 +12,7 @@ def page():
             '<button onclick="unsubscribeUser()" style="margin-right: 1rem;">Unsubscribe</button>' +
             '<a href="/">Cancel</a>').render()
     return output
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=80)
 ```
