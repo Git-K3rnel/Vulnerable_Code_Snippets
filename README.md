@@ -14,3 +14,5 @@ This repo provides vulnerable code snippets
 [SSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSRF)
 
 [SSTI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSTI)
+
+[Business Logic](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Business_Logic)
