@@ -40,3 +40,11 @@ def index():
 if __name__ == "__main__":
     app.run(debug=True)
 ```
+
+<details>
+  <summary><b>Exploite</b></summary>
+
+  ```text
+Give negative value to `amount` which causes to increase total balance => line 18
+  ```
+</details>
