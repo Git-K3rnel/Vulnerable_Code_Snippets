@@ -1,18 +1,18 @@
 # Vulnerable_Code_Snippets
 This repo provides vulnerable code snippets
 
-[SQL Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/blob/main/SQL_Injection/README.md)
+- [SQL Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/blob/main/SQL_Injection/README.md)
 
-[LFI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/LFI)
+- [LFI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/LFI)
 
-[Insecure Deserialization](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Insecure_Deserializatio)
+- [Insecure Deserialization](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Insecure_Deserializatio)
 
-[CSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/CSRF)
+- [CSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/CSRF)
 
-[Command Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Command_Injection)
+- [Command Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Command_Injection)
 
-[SSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSRF)
+- [SSRF](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSRF)
 
-[SSTI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSTI)
+- [SSTI](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/SSTI)
 
-[Business Logic](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Business_Logic)
+- [Business Logic](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Business_Logic)
