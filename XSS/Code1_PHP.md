@@ -49,7 +49,7 @@ while ($row = $result->fetch_assoc()) {
 }
 
 ?>
-
+```
 
 <details>
   <summary><b>Exploite</b></summary>
@@ -58,4 +58,3 @@ while ($row = $result->fetch_assoc()) {
 author=mytext"><img/src/onerror=alert(1)>
   ```
 </details>
-```
