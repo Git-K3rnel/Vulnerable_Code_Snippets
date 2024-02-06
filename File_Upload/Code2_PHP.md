@@ -43,7 +43,7 @@ if ($uploadOk == 0) {
     }
 }
 ?> 
-
+```
 
 <details>
   <summary><b>Exploite</b></summary>
@@ -53,4 +53,3 @@ if ($uploadOk == 0) {
 - Add `GIF98` to the first line of the reverse shell and upload it
   ```
 </details>
-```
