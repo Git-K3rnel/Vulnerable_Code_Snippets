@@ -9,6 +9,8 @@ This repo provides vulnerable code snippets
 
 - [Cross-Site Request Forgery (CSRF)](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/CSRF)
 
+- [Cross Origin Resource Sharing (CORS)](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/CORS)
+
 - [Cross Site Scripting (XSS)](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/XSS) 
 
 - [Command Injection](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Command_Injection)
