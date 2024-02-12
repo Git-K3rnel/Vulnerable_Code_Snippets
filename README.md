@@ -20,3 +20,5 @@ This repo provides vulnerable code snippets
 - [Business Logic](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Business_Logic)
 
 - [File Upload](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/File_Upload)
+
+- [Open_Redirect](https://github.com/Git-K3rnel/Vulnerable_Code_Snippets/tree/main/Open_Redirect)
