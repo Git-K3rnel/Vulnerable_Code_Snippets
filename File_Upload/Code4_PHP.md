@@ -30,6 +30,7 @@ function uploadImage(){
             $this->showUploadForm($msg,$error);
         }
     }
+?>
 ```
 
 <details>
